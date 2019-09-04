@@ -1,0 +1,55 @@
+h1{
+    ;
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: "Roboto", "Lucida Grande", "DejaVu Sans", "Bitstream Vera Sans", Verdana, Arial, sans-serif;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+
+
+}
+
+header{
+    height: 200px;
+    position: relative;
+    background-color: lightgrey;
+    margin: 10px 5px 10px 10px;
+
+
+}
+
+section{
+    height: 300px;
+    width: 1000px;
+    float:left;
+    top:10px;
+    background-color: lightgrey;
+    margin: 10px 10px 10px 10px;
+
+
+
+
+}
+aside{
+    height:300px;
+    width: 520px;
+    float:right;
+    background-color: lightgrey;
+    margin:10px 10px 10px 10px;
+
+}
+
+footer{
+    clear: both;
+    background-color: lightgrey;
+    height:150px;
+
+
+}
+
+p{
+    text-align: center;
+    font-family: Arial, serif;
+    font-size: 15px;
+
+}
